@@ -1,0 +1,3 @@
+- CLI Pomodoro with a focus period, long and short breaks. TUI with ncurses.
+- use `make` and `sudo make install` to work it
+- Future plans : add brown noise player to focus (or music), ringer at time end
